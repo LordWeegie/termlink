@@ -2,7 +2,7 @@
 
 Hello! This is TermLink, a new messaging platform I'm designing. It's a terminal app to keep it fast and lightweight, but it's still important to keep it user-friendly even while being technical.
 
-Unlike most messaging platforms, I'm not expecting to handle servers—the reason being they're not very stable. This will be a fully stable option.
+Unlike most messaging platforms, I'm not expected to handle servers—the reason being I'm bad at keeping them stable :]. This will be a fully stable option.
 
 ## How It Works
 
