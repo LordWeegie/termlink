@@ -27,4 +27,7 @@ It's important to bring up the risks of exposing your IP and port forwarding.
 - Use non-standard ports
 - Consider alternatives like Tailscale or Cloudflare Tunnels that avoid opening ports entirely
 
-Now, it is important to say—every website you visit gets your public IP address. It's not very easy to keep it private. Anyway, it's up to you how you want to do this. I suggest you use a VPN if you're worried about it, and if you're not you can just do it normally.
+
+
+
+Now, it is important to say—every website you visit gets your public IP address. It's not very easy to keep it private. Anyway, it's up to you how you want to do this. I suggest you use a VPN if you're worried about it, and if you're not you can just do it normally. Also, unlike many Peer2Peer messaging platform this allows as many users as you want!
